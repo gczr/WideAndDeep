@@ -1,0 +1,2 @@
+全量数据约1G，请从下面网站下载
+https://www.kaggle.com/c/avazu-ctr-prediction
